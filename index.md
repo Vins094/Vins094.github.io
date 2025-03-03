@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects in Data Science, Computer Vision, NLP, Deep Learning and Machine Learning 
 
 [Customer churn Prediction](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
