@@ -5,7 +5,7 @@
 ### Projects in Data Science, Computer Vision, NLP, Deep Learning and Machine Learning 
 
 ####Customer churn Prediction
-To be added
+To be added here
 
 [Customer churn Prediction](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
