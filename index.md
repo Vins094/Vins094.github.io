@@ -31,5 +31,3 @@
 
 
 ---
-<p style="font-size:11px">Site by <a href="https://github.com/evanca/quick-portfolio">Vinita</a></p>
-<!-- Remove above link if you don't want to attibute -->
