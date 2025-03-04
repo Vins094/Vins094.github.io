@@ -4,6 +4,11 @@
 
 ### Projects in Data Science, Computer Vision, NLP, Deep Learning and Machine Learning 
 
+#### Sentiment Analysis of IMDB Data
+[View Code on Github](http://example.com/)
+<img src="images/Sentiment_Analysis.png?raw=true"/>
+<img src="images/Performance_sentiment_Analysis.png?raw=true"/>
+
 #### Customer churn Prediction
 To be added
 
@@ -23,7 +28,8 @@ To be added
 
 
 ---
-[Transparent Credit Risk Assessment](http://example.com/)
+#### Transparent Credit Risk Assessment
+[View Code on Github](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Category Name 2
