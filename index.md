@@ -30,6 +30,7 @@ To be added
 
 ---
 #### Transparent Credit Risk Assessment
+To be added
 [View Code on Github](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
