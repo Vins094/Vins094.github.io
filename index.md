@@ -23,7 +23,7 @@ To be added
 
 ---
 #### Covid Mask Detection
-To be added here
+To be added
 <img src="images/Mask_detection.png?raw=true"/>
 [View Code on Github](https://github.com/Vins094/Mask-detection-using-Computer-Vision/blob/main/test_functions_v3.ipynb/)
 
