@@ -8,7 +8,7 @@
 To be added
 
 [Customer churn Prediction](/sample_page)
-<img src="images/Mask_detection.png?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Spatiotemporal analysis of LA Crimes](/pdf/sample_presentation.pdf)
