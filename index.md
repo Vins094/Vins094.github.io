@@ -16,7 +16,7 @@ With the advancement of technology and a highly competitive market, customers ar
 
 <img src="images/Contract_churn.png?raw=true" style="width: 47%; display: inline-block;">
 <img src="images/Offer_churn.png?raw=true" style="width: 50%;">
-[View code on Github]((https://github.com/Vins094/Data-Science-project-on-Customer-Churn/blob/main/Principle%20of%20Data%20Science%20Coursework.ipynb)
+[View code on Github](https://github.com/Vins094/Data-Science-project-on-Customer-Churn/blob/main/Principle%20of%20Data%20Science%20Coursework.ipynb)
 
 ---
 [Spatiotemporal analysis of LA Crimes](/pdf/sample_presentation.pdf)
