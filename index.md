@@ -5,9 +5,10 @@
 ### Projects in Data Science, Computer Vision, NLP, Deep Learning and Machine Learning 
 
 #### Sentiment Analysis of IMDB Data
-[View Code on Github](http://example.com/)
+
 <img src="images/Sentiment_Analysis.png?raw=true"/>
 <img src="images/Performance_sentiment_Analysis.png?raw=true"/>
+[View Code on Github](http://example.com/)
 
 #### Customer churn Prediction
 To be added
