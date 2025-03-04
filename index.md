@@ -14,7 +14,8 @@ Sentiment analysis automates the classification of text into positive or negativ
 #### Customer churn Prediction
 With the advancement of technology and a highly competitive market, customers are more likely to switch telecom operators for better offers, leading to significant business losses. Research shows that controlling 5% of customer churn can increase profits by 25-85%. This project predicts churn using a Random Forest model, focusing on minimizing Type II error and addressing class imbalance with the SMOTEENN technique. Accurate predictions optimize retention strategies, reduce costs, and improve profitability.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Contract_churn.png?raw=true" style="width: 47%; display: inline-block;">
+<img src="images/Offer_churn.png?raw=true" style="width: 50%;">
 [View code on Github](/sample_page)
 
 ---
