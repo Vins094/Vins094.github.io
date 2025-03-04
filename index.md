@@ -19,7 +19,8 @@ With the advancement of technology and a highly competitive market, customers ar
 [View code on Github](https://github.com/Vins094/Data-Science-project-on-Customer-Churn/blob/main/Principle%20of%20Data%20Science%20Coursework.ipynb)
 
 ---
-[Spatiotemporal analysis of LA Crimes](/pdf/sample_presentation.pdf)
+#### Spatiotemporal Analysis of LA Crimes
+In this project, I used Tableau and Python with K-means clustering and dimension reduction techniques to analyze and gain insights into crime patterns in Los Angeles. The data, collected from the LAPD over three years, was visualized and explored to identify trends and clusters, providing a deeper understanding of crime distribution and dynamics in the area.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
