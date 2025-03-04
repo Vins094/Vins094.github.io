@@ -16,7 +16,7 @@ To be added
 
 ---
 [Covid Mask Detection](https://github.com/Vins094/Mask-detection-using-Computer-Vision/blob/main/test_functions_v3.ipynb/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Mask_detection.png?raw=true"/>
 
 ---
 [Transparent Credit Risk Assessment](http://example.com/)
