@@ -6,8 +6,7 @@
 
 #### Sentiment Analysis of IMDB Data
 [View Code on Github](http://example.com/)
-<img src="images/Sentiment_Analysis.png?raw=true"/>
-<img src="images/Performance_sentiment_Analysis.png?raw=true"/>
+<img src="images/Sentiment_Analysis.png?raw=true"/><img src="images/Performance_sentiment_Analysis.png?raw=true"/>
 
 #### Customer churn Prediction
 To be added
