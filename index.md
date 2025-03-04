@@ -12,7 +12,7 @@ Sentiment analysis automates the classification of text into positive or negativ
 [View Code on Github](http://example.com/)
 
 #### Customer churn Prediction
-To be added
+To be added here
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 [View code on Github](/sample_page)
