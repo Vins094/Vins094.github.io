@@ -35,8 +35,9 @@ During the COVID-19 pandemic, wearing masks became essential for safety. This pr
 ---
 #### Transparent Credit Risk Assessment
 To be added
-[View Code on Github](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+[View Code on Github](https://github.com/Vins094/TRANSPARENT-AND-INTERPRETABLE-CREDIT-RISK-ASSESSMENT/blob/main/XAI_RandomForest.ipynb)
+
 
 ### Category Name 2
 
