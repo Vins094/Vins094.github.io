@@ -15,7 +15,7 @@ To be added
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Covid Mask Detection](http://example.com/)
+[Covid Mask Detection](https://github.com/Vins094/Mask-detection-using-Computer-Vision/blob/main/test_functions_v3.ipynb/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
