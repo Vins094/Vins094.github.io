@@ -39,13 +39,13 @@ To be added
 [View Code on Github](https://github.com/Vins094/TRANSPARENT-AND-INTERPRETABLE-CREDIT-RISK-ASSESSMENT/blob/main/XAI_RandomForest.ipynb)
 
 
-### Category Name 2
+<!--### Category Name 2
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)-->
 
 ---
 
