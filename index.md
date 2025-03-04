@@ -21,7 +21,9 @@ With the advancement of technology and a highly competitive market, customers ar
 ---
 #### Spatiotemporal Analysis of LA Crimes
 In this project, I used Tableau and Python with K-means clustering and dimension reduction techniques to analyze and gain insights into crime patterns in Los Angeles. The data, collected from the LAPD over three years, was visualized and explored to identify trends and clusters, providing a deeper understanding of crime distribution and dynamics in the area.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/workflow.png?raw=true" style="width: 47%; display: inline-block;">
+<img src="images/MDS_LA.png?raw=true" style="width: 50%;">
+<img src="images/Types_of_crime.png?raw=true" style="width: 50%;">
 
 ---
 #### Covid Mask Detection
