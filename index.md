@@ -36,7 +36,8 @@ During the COVID-19 pandemic, wearing masks became essential for safety. This pr
 #### Transparent Credit Risk Assessment
 Interpretability in credit risk assessment is essential to ensure transparency, fairness, and compliance with regulatory requirements. Explainable AI (XAI) techniques, such as LIME and SHAP, address these issues by providing insights into black box model predictions.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/SHAP_values.png?raw=true" style="width: 50%;">
+<img src="images/Lime_values.png?raw=true" style="width: 47%;">
 [View Code on Github](https://github.com/Vins094/TRANSPARENT-AND-INTERPRETABLE-CREDIT-RISK-ASSESSMENT/blob/main/XAI_RandomForest.ipynb)
 
 
