@@ -2,9 +2,9 @@
 
 ---
 
-### Projects in Data Science, Computer Vision, NLP, Deep Learning and Machine Learning 
+### Projects in NLP,Data Science, Computer Vision, Deep Learning and Machine Learning 
 
-#### Sentiment Analysis of IMDB Data
+#### Sentiment Analysis of IMDB Reviews
 Sentiment analysis automates the classification of text into positive or negative emotions. In this project, I fine-tuned a BERT model using PyTorch to analyze IMDb movie reviews, achieving 94% accuracy. This model helps viewers make informed decisions and provides filmmakers with insights to improve their work and marketing strategies. Leveraging NLP and machine learning, it effectively utilizes audience sentiment for better decision-making.
 
 <img src="images/Sentiment_Analysis.png?raw=true" style="width: 47%; display: inline-block;">
