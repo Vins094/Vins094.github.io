@@ -9,7 +9,7 @@ Sentiment analysis automates the classification of text into positive or negativ
 
 <img src="images/Sentiment_Analysis.png?raw=true" style="width: 47%; display: inline-block;">
 <img src="images/Performance_sentiment_Analysis.png?raw=true" style="width: 50%;">
-[View Code on Github](http://example.com/)
+[View Code on Github](https://github.com/Vins094/Data-Science-project-on-Customer-Churn/blob/main/Principle%20of%20Data%20Science%20Coursework.ipynb)
 
 #### Customer churn Prediction
 With the advancement of technology and a highly competitive market, customers are more likely to switch telecom operators for better offers, leading to significant business losses. Research shows that controlling 5% of customer churn can increase profits by 25-85%. This project predicts churn using a Random Forest model, focusing on minimizing Type II error and addressing class imbalance with the SMOTEENN technique. Accurate predictions optimize retention strategies, reduce costs, and improve profitability.
