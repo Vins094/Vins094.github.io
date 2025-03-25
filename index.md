@@ -9,6 +9,11 @@ Sentiment analysis automates the classification of text into positive or negativ
 
 <img src="images/Sentiment_Analysis.png?raw=true" style="width: 47%; display: inline-block;">
 <img src="images/Performance_sentiment_Analysis.png?raw=true" style="width: 50%;">
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/NumPy-white?logo=NumPy&logoColor=blue)](#)
+ [![](https://img.shields.io/badge/Pandas-white?logo=Pandas&logoColor=blue)](#) [![](https://img.shields.io/badge/Google%20Colab-white?logo=Google%20Colab&logoColor=orange)](#)
+
+
 [View Code on Github](https://github.com/Vins094/Sentiment-Analysis-on-IMDB-reviews)
 
 #### Customer churn Prediction
@@ -16,6 +21,9 @@ With the advancement of technology and a highly competitive market, customers ar
 
 <img src="images/Contract_churn.png?raw=true" style="width: 47%; display: inline-block;">
 <img src="images/Offer_churn.png?raw=true" style="width: 50%;">
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
+
 [View code on Github](https://github.com/Vins094/Data-Science-project-on-Customer-Churn)
 
 ---
@@ -25,10 +33,15 @@ In this project, I used Tableau and Python with K-means clustering and dimension
 <img src="images/MDS_LA.png?raw=true" style="width: 50%;">
 <img src="images/Types_of_crime.png?raw=true" style="width: 47%;">
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
+
 ---
 #### Covid-19 Mask Detection
 During the COVID-19 pandemic, wearing masks became essential for safety. This project focuses on detecting whether people are wearing masks using video data sourced from YouTube.
 <img src="images/Mask_detection.png?raw=true"/>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
+
 [View Code on Github](https://github.com/Vins094/Mask-detection-using-Computer-Vision)
 
 
@@ -38,6 +51,9 @@ Interpretability in credit risk assessment is essential to ensure transparency, 
 
 <img src="images/SHAP_values.png?raw=true" style="width: 50%;">
 <img src="images/Lime_values.png?raw=true">
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/LIME-white?logo=LIME)](#) [![](https://img.shields.io/badge/SHAP-white?logo=SHAP)](#)
+
 [View Code on Github](https://github.com/Vins094/TRANSPARENT-AND-INTERPRETABLE-CREDIT-RISK-ASSESSMENT/blob/main/XAI_RandomForest.ipynb)
 
 
