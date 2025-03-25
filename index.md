@@ -10,8 +10,8 @@ Sentiment analysis automates the classification of text into positive or negativ
 <img src="images/Sentiment_Analysis.png?raw=true" style="width: 47%; display: inline-block;">
 <img src="images/Performance_sentiment_Analysis.png?raw=true" style="width: 50%;">
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/NumPy-white?logo=NumPy&logoColor=blue)](#)
- [![](https://img.shields.io/badge/Pandas-white?logo=Pandas&logoColor=blue)](#) [![](https://img.shields.io/badge/Google%20Colab-white?logo=Google%20Colab&logoColor=orange)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/NumPy-white?logo=NumPy&logoColor=blue)](#)
+ [![](https://img.shields.io/badge/Pandas-white?logo=Pandas&logoColor=blue)](#) [![](https://img.shields.io/badge/Google%20Colab-white?logo=Google%20Colab&logoColor=orange)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/HuggingFace-white?logo=huggingface)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/-Seaborn-white?style=flat&logo=seaborn&logoColor=blue)](#) 
 
 
 [View Code on Github](https://github.com/Vins094/Sentiment-Analysis-on-IMDB-reviews)
