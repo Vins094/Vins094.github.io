@@ -29,7 +29,7 @@ In this project, I used Tableau and Python with K-means clustering and dimension
 #### Covid-19 Mask Detection
 During the COVID-19 pandemic, wearing masks became essential for safety. This project focuses on detecting whether people are wearing masks using video data sourced from YouTube.
 <img src="images/Mask_detection.png?raw=true"/>
-[View Code on Github](https://github.com/Vins094/Mask-detection-using-Computer-Vision/blob/main/test_functions_v3.ipynb/)
+[View Code on Github](https://github.com/Vins094/Mask-detection-using-Computer-Vision)
 
 
 ---
